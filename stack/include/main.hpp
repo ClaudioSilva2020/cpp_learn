@@ -8,3 +8,9 @@
  * @copyright Copyright (c) 2022
  * 
  */
+
+#include "stack.hpp"
+
+#include <iostream>
+#include <memory>
+#include <string>

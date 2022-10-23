@@ -11,22 +11,30 @@
 
 #include <iostream>
 
-#define MAX_LENGTH_STACK_SIZE 256
+#define MAX_STACK_SIZE 256
+
+typedef int stack_type;
+
+using namespace std;
 
 class Stack
 {
 private:
     /* data */
-    int data[MAX_LENGTH_STACK_SIZE];
-    int top;
+    stack_type* data; 
+    /* Height of stack*/
+    int height;
 
 
 public:
     Stack(/* args */);
     ~Stack();
-    void push(int);
-    int pop();
-    int isEmpty();
-    int isFull();
+    bool isEmpty();
+    bool isFull();
+    void push(stack_type data);
+    stack_type pop();
+    int length();
+    void clear();
+    void print();
 };
 
