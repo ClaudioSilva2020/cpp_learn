@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/sigle_principle.dir/src/main.cpp.o -o sigle_principle 

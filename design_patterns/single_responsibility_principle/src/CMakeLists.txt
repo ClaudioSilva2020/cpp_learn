@@ -1,0 +1,1 @@
+add_executable(single_principle main.cpp)
