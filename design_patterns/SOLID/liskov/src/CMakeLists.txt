@@ -1,0 +1,1 @@
+add_executable(principle_liskov src/main.cpp)

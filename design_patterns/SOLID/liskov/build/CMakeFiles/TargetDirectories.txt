@@ -1,0 +1,3 @@
+/media/pdi/PED/development/cpp/cpp_learn/design_patterns/SOLID/liskov/build/CMakeFiles/principle_liskov.dir
+/media/pdi/PED/development/cpp/cpp_learn/design_patterns/SOLID/liskov/build/CMakeFiles/edit_cache.dir
+/media/pdi/PED/development/cpp/cpp_learn/design_patterns/SOLID/liskov/build/CMakeFiles/rebuild_cache.dir
