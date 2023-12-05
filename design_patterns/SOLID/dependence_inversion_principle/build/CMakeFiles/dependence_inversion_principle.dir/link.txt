@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/dependence_inversion_principle.dir/src/main.cpp.o -o dependence_inversion_principle 
