@@ -1,4 +1,4 @@
-# Install script for directory: /media/pdi/PED/development/cpp/cpp_learn/design_patterns/single_responsibility_principle
+# Install script for directory: /media/pdi/PED/development/cpp/cpp_learn/design_patterns/SOLID/single_responsibility_principle
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/media/pdi/PED/development/cpp/cpp_learn/design_patterns/single_responsibility_principle/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/media/pdi/PED/development/cpp/cpp_learn/design_patterns/SOLID/single_responsibility_principle/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

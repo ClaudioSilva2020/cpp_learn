@@ -50,4 +50,5 @@ int main(int, char**){
 
     PersistenceManager pm;
     pm.save(journal, "diary.txt");
+
 }

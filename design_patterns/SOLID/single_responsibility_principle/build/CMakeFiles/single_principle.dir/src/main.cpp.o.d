@@ -1,5 +1,5 @@
 CMakeFiles/single_principle.dir/src/main.cpp.o: \
- /media/pdi/PED/development/cpp/cpp_learn/design_patterns/single_responsibility_principle/src/main.cpp \
+ /media/pdi/PED/development/cpp/cpp_learn/design_patterns/SOLID/single_responsibility_principle/src/main.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/9/iostream \
  /usr/include/x86_64-linux-gnu/c++/9/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/9/bits/os_defines.h \
