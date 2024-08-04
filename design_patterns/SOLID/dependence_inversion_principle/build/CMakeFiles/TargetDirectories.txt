@@ -1,0 +1,3 @@
+/media/pdi/PED/development/cpp/cpp_learn/design_patterns/SOLID/dependence_inversion_principle/build/CMakeFiles/dependence_inversion_principle.dir
+/media/pdi/PED/development/cpp/cpp_learn/design_patterns/SOLID/dependence_inversion_principle/build/CMakeFiles/edit_cache.dir
+/media/pdi/PED/development/cpp/cpp_learn/design_patterns/SOLID/dependence_inversion_principle/build/CMakeFiles/rebuild_cache.dir

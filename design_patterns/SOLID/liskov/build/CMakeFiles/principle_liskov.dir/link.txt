@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/principle_liskov.dir/src/main.cpp.o -o principle_liskov 
