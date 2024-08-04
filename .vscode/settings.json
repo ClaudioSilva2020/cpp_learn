@@ -44,7 +44,25 @@
         "sstream": "cpp",
         "stdexcept": "cpp",
         "streambuf": "cpp",
-        "typeinfo": "cpp"
+        "typeinfo": "cpp",
+        "compare": "cpp",
+        "concepts": "cpp",
+        "numbers": "cpp",
+        "cinttypes": "cpp",
+        "chrono": "cpp",
+        "complex": "cpp",
+        "condition_variable": "cpp",
+        "cstring": "cpp",
+        "ctime": "cpp",
+        "list": "cpp",
+        "set": "cpp",
+        "ratio": "cpp",
+        "iomanip": "cpp",
+        "mutex": "cpp",
+        "semaphore": "cpp",
+        "stop_token": "cpp",
+        "thread": "cpp"
     },
-    "cmake.configureOnOpen": true
+    "cmake.configureOnOpen": true,
+    "cmake.sourceDirectory": "/home/ped-5391/Documentos/cpp_learn/free_image"
 }
